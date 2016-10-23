@@ -30,4 +30,9 @@ tags
 .DS_Store
 *.swp
 *.swo
+
+.cproject
+.project
+.settings/
+
 project.state
