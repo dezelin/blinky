@@ -1,0 +1,4 @@
+### Target: targets/unittest/sys_config_test-nffs
+target.bsp: "@apache-mynewt-core/hw/bsp/native"
+target.build_profile: "debug"
+target.compiler: "@apache-mynewt-core/compiler/sim"
