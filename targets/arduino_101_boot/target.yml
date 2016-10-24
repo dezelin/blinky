@@ -1,0 +1,4 @@
+### Target: targets/arduino_101_boot
+target.app: "@apache-mynewt-core/apps/boot"
+target.bsp: "@apache-mynewt-core/hw/bsp/arduino_101"
+target.build_profile: "debug"
